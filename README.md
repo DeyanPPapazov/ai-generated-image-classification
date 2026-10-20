@@ -101,7 +101,7 @@ Sigmoid
 Class Output [Real | AI]
 ```
 
-**Parameters**: ~14,500 trainable parameters
+**Parameters**: ~1,900 trainable parameters
 
 ### 2. Frozen ResNet-18
 
@@ -135,7 +135,7 @@ Softmax
 Class Output [Real | AI]
 ```
 
-**Parameters**: ~3M trainable parameters (layer4 + FC)
+**Parameters**: ~8.4M trainable parameters (layer4 + FC)
 
 ## Results
 
